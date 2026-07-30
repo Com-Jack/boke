@@ -1,0 +1,10 @@
+name = "simple-blog"
+description = "A minimal blog theme for Hugo"
+license = "MIT"
+homepage = "https://github.com/Com-Jack/boke"
+tags = ["blog", "minimal"]
+features = ["blog"]
+min_version = "0.120.0"
+
+[author]
+  name = "Com-Jack"

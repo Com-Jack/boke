@@ -1,0 +1,21 @@
+baseURL = 'https://Com-Jack.github.io/boke/'
+locale = 'zh-CN'
+title = 'Com-Jack 的博客'
+theme = 'simple-blog'
+defaultContentLanguage = 'zh'
+enableRobotsTXT = true
+
+[params]
+  description = '技术博客，记录学习与思考'
+
+[menu]
+  [[menu.main]]
+    identifier = 'home'
+    name = '首页'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    identifier = 'posts'
+    name = '文章'
+    url = '/posts/'
+    weight = 2
